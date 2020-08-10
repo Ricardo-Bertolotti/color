@@ -1,0 +1,22 @@
+#Function : "  color  "
+
+#White
+#Red
+#Green
+#Yellow
+#Blue
+#Purple
+#Cyan
+#Gray
+#Black
+
+cc = '\033['
+c0 = cc+'30m'
+c1 = cc+'31m'
+c2 = cc+'32m'
+c3 = cc+'33m'
+c4 = cc+'34m'
+c5 = cc+'35m'
+c6 = cc+'36m'
+c7 = cc+'37m'
+c8 = cc+'7m'
